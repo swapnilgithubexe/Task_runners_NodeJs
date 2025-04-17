@@ -8,3 +8,5 @@ gulp.task("default", () => {
     .pipe(gulp.dest("dest/images"))
 
 });
+
+// Set - ExecutionPolicy - Scope Process - ExecutionPolicy Bypass
